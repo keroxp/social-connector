@@ -1,0 +1,20 @@
+{
+  "name": "social-connector",
+  "version": "1.0.0",
+  "description": "Social Connector v0.4.1 ================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keroxp/social-connector.git"
+  },
+  "keywords": "unity3d-package",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keroxp/social-connector/issues"
+  },
+  "homepage": "https://github.com/keroxp/social-connector#readme"
+}
